@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Jesse Mallen (a.k.a. J.D.)
+I'm a full stack software developer and architect, primarily in the .NET stack, currently working in Python, Vue, and PostgreSQL.
+
+[![jdmallen's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/3986790?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/3986790 "jdmallen's Stack Overflow Reputation")
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdmallen&show_icons=true&theme=github_dark)
+
 
 <!--
 **jdmallen/jdmallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
